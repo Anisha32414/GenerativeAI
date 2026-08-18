@@ -1,0 +1,13 @@
+"LangChain is a powerful open-source framework designed to build applications 
+using large language models (LLMs) by connecting them with external data sources, 
+memory, and reasoning tools. It turns isolated AI models into interactive, 
+context-aware systems capable of solving complex real-world tasks. 
+Good morning everyone. Today, we live in a world where Artificial Intelligence—and 
+specifically Large Language Models—can write poems, write code, and answer questions 
+in seconds. But an AI model by itself is like a brilliant brain locked in a room with no doors. 
+It does not know your personal data, it cannot browse the live internet, and it forgets what 
+you told it five minutes ago. LangChain did not make AI models smarter, but it made them 
+useful. It transformed AI from a cool party trick into practical software that reads our 
+files, automates our work, and answers our questions with real-time facts. As developers 
+and thinkers, our job is no longer just wondering what AI can say—with tools like LangChain, 
+it is about deciding what AI can do."
