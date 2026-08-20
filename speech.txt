@@ -16,7 +16,7 @@ environment to build LLM applications and integrate them with external data sour
 LangChain’s module-based approach allows developers and data scientists to dynamically compare different 
 prompts and even different foundation models with minimal need to rewrite code. This modular environment 
 also allows for programs that use multiple LLMs: for example, an application that uses one LLM to interpret 
-user queries and another LLM to author a response.
+user querises and another LLM to author a response.
 Launched by Harrison Chase in October 2022, LangChain enjoyed a meteoric rise to prominence: as of June 2023, 
 it was the single fastest-growing open source project on Github.1 Coinciding with the momentous launch of OpenAI’s 
 ChatGPT the following month, LangChain has played a significant role in making generative AI (genAI) more 
