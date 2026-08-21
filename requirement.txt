@@ -17,3 +17,7 @@ langchain_chroma
 langchain-google-genai
 beautifulsoup4
 langchain-classic
+langchain_groq
+langchain_core
+fastapi
+uvicorn
