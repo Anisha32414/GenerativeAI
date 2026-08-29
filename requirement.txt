@@ -37,3 +37,4 @@ torch
 torchvision
 langchainhub
 langsmith
+ddgs
