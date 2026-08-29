@@ -1,0 +1,41 @@
+### Agents and Tools
+----------------------------------------------------------------------------------------------------------------
+Agents:-
+
+* Chain vs Agent
+
+# Chain 🔗
+
+Follows a fixed, predefined sequence of steps.
+You decide the workflow.
+More predictable and simpler.
+
+# Agent 🤖
+
+Dynamically decides what steps to take.
+Can choose and use different tools (search, calculator, database, APIs, etc.).
+More flexible and autonomous.
+
+----------------------------------------------------------------------------------------------------------------
+
+Tools:-
+
+🛠️ Tools
+
+Tools are external functions that help an LLM/agent do things it cannot do by itself.
+
+Examples:
+
+🌐 Web Search → search the internet
+🧮 Calculator → perform calculations
+🗄️ SQL Tool → access databases
+📄 File Tool → read files
+🐍 Python Tool → run Python code
+📧 Email Tool → send/read emails
+
+👉 In simple words:
+LLM = Brain 🧠
+Tools = Hands 🛠️
+Agent = Brain + ability to choose and use tools 🤖
+
+----------------------------------------------------------------------------------------------------------------
