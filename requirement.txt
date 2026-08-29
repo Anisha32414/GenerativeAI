@@ -35,3 +35,5 @@ SQLAlchemy
 streamlit
 torch
 torchvision
+langchainhub
+langsmith
