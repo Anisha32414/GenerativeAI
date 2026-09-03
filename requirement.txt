@@ -38,3 +38,4 @@ torchvision
 langchainhub
 langsmith
 ddgs
+validators
