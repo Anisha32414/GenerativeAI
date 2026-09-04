@@ -39,3 +39,4 @@ langchainhub
 langsmith
 ddgs
 validators
+huggingface_hub
