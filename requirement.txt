@@ -40,3 +40,4 @@ langsmith
 ddgs
 validators
 huggingface_hub
+gradio
